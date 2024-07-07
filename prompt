@@ -1,0 +1,10 @@
+Parse the following resume content into JSON format, categorizing each section clearly:
+[Insert Resume Text Here]
+
+Sections include:
+- Contact Information
+- Professional Summary
+- Work Experience
+- Education
+- Skills
+- Certifications
